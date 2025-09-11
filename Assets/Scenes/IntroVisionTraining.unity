@@ -20,7 +20,11 @@ RenderSettings:
   m_FogDensity: 0.018
   m_LinearFogStart: 0.87
   m_LinearFogEnd: 100
+<<<<<<< HEAD
   m_AmbientSkyColor: {r: 0.61066216, g: 0.83975935, b: 0.8584906, a: 1}
+=======
+  m_AmbientSkyColor: {r: 0.34242615, g: 0.764151, b: 0.679806, a: 1}
+>>>>>>> 9c76c3d (Fix the water Texture for IntroWM to be same as VisionTraining Intro)
   m_AmbientEquatorColor: {r: 0.2756319, g: 0.3253471, b: 0.3584906, a: 1}
   m_AmbientGroundColor: {r: 0.2830189, g: 0.26477396, b: 0.2282841, a: 1}
   m_AmbientIntensity: 3.79
