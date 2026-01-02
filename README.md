@@ -8,8 +8,6 @@ You can view the demo videos at the following link:
 
 🔗 [Demo Videos (Google Drive)](https://drive.google.com/drive/folders/1-ldUyXFNReW1IrZmvnwWKZsZQIKcigMQ?usp=sharing)
 
-- demo1.mp4 (14.8 MB)
-- demo2.mp4 (2.5 MB)
 
 ## 📋 Overview
 
